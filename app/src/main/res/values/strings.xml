@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExplicitIntent</string>
+    <string name="display1">First Activity</string>
+    <string name="button1">Call Second Activity</string>
+    <string name="button2">Call First Activity</string>
+    <string name="display2">Second Activity</string>
+    <string name="enter1">Enter your name</string>
+    <string name="enter2">Select your dob</string>
+    <string name="enter3">Enter your age</string>
+</resources>
